@@ -1,5 +1,9 @@
 ### 🦆한강에오리 AI 이미지 분류
 
+</br>
+
+> #### EfficientNet-b0 모델을 사용하여 이미지 분류 모델 Customize 진행
+> #### `develop` 브랜치의 `image_classification` 폴더에 .ipynb 파일 업로드 완료
 > 서울의 공원 (https://parks.seoul.go.kr/) 에서 제공하는 한강생태지도의 한강 생태를 기준으로 분류하였습니다. </br>
 
 </br> <b> 📌 대분류 </b> </br>
